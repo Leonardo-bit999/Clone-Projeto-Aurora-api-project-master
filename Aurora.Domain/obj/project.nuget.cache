@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rRQ71D7RfaY3PfIQX5VJaab75VHF3MNE9Xfsz9LBxxMEt6/bO4dV/EbLI2Y175U1AJ/HwGp7LIbbb2EJGYiY7w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\leosa\\Downloads\\b808a33f-71ee-47de-91a3-be34b9637cf6\\aurora-api-project-master\\Aurora.Domain\\Aurora.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\leosa\\.nuget\\packages\\flunt\\1.0.5\\flunt.1.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
